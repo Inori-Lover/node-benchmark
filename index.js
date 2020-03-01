@@ -1,0 +1,1 @@
+throw new Error('run oneof benchmark but not root file')
